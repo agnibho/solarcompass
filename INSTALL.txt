@@ -1,0 +1,15 @@
+          Installation instructions for Solar Compass
+	  ===========================================
+
+Install binary distribution
+---------------------------
+
+You can download the APK file directly from
+http://code.agnibho.com/solarcompass and install it on your device.
+
+Build from source code
+----------------------
+
+The source code is available at
+https://github.com/agnibho/solarcompass. You can download the source
+code and build the package yourself.

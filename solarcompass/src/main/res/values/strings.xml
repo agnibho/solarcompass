@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Solar Compass</string>
+    <string name="title_activity_location">Location</string>
+    <string name="loc_title">Your Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="set_loc">Set Location</string>
+    <string name="title_activity_help">Solar Compass Help</string>
+    <string name="help">
+        \n<b>Solar Compass</b> finds the directions based on the <u>position of the sun</u> in the sky.
+        \n<i>It works only during the day</i>.
+        \n\nTo use it hold your device horizontally with face up. Now touch the sun icon with your finger
+        and rotate it, so that the sun icon points to the direction of the sun in the sky.
+        The compass will automatically rotate to point the directions once you lift your finger.
+        \n\n<b>Tips:</b>
+        \nTo find the proper direction of the sun hold your finger vertically over a horizontal surface in the sun.
+        The Direction of the sun will be the exact opposite direction of the shadow of your finger.
+        \n\n<b><u>Solar Compass 1.0</u></b>
+        \nCopyright \u00A9 2016 Agnibho Mondal
+        \n<a href='http://www.agnibho.com'>www.agnibho.com</a>
+    </string>
+</resources>
